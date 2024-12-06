@@ -2,7 +2,7 @@
 
 This project aims to send email notifications for EC2 instances that lack a specific tag (e.g., a tag named `Environment` without an assigned value). The solution leverages AWS services to automate the detection and notification process.
 
-[enter link description here](arquitectura.png)
+[](arquitectura.png)
 
 ## Solution Overview
 
